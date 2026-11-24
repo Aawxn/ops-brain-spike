@@ -1,7 +1,7 @@
 # Just Sortd — Ops Brain (PRD 1)
 
 > **Goal:** Autonomously turns messy multilingual standups (Hindi/Gujarati/English) into owned, dated Notion tasks, ranks them with an explainable priority formula, and catches supplier deadline slips via DAG/BFS before they break company launch goals.  
-> 📄 **Core Documents:** [1-Page Build Plan](BUILD_PLAN.md) | [Ops Runbook](RUNBOOK.md) | [Loom Script](LOOM_SCRIPT_PRD1_OPS_BRAIN.md)
+> 📄 **Core Documents:** [1-Page Build Plan](BUILD_PLAN.md) | [Ops Runbook](RUNBOOK.md)
 
 ---
 
