@@ -1,0 +1,24 @@
+Standup Notes — 18 Nov 2026 | Just Sortd Pre-Launch Sync
+Attendees: Bhargav, Rahul, Priya, Karan, Ananya
+Goal: Diwali Festive Drop Launch on November 30, 2026 (Shopify Live)
+
+1. Bhargav: Kem cho team? We have exactly 12 days left for the Diwali festive drop. Hard deadline is Nov 30.
+2. Sabse critical part is our 4-step execution chain: fabric samples -> pattern mockups -> studio shoot -> Shopify drop.
+3. Rahul: Aapda Surat na fabric vendor sathe call thayo morning ma.
+4. Problem chhe—fabric swatch samples originally Nov 22 par aavvanu hatu.
+5. Pan vendor bolyo ke dyeing machine issue chhe, toh Surat thi fabric samples aavta 3-4 divas vadhare lagse.
+6. Now revised swatch delivery date is Nov 26. Rahul will coordinate and get final sample swatch approved by Nov 26.
+7. Priya: Arre yaar, agar fabric sample hi 26 Nov ko aayega, toh garment pattern mockups and spec sheets kaise banenge?
+8. I originally committed pattern mockups for Nov 25. Mockups completely depend on fabric swatch approval!
+9. I need at least 2 days after Rahul's fabric approval, so pattern mockups can only finish by Nov 28 now.
+10. Karan: Bhai photoshoot studio already book kar diya hai 28th Nov ko Bandra me.
+11. Model, lighting team, and studio rental all locked. But lookbook shoot strictly depends on Priya's pattern mockups!
+12. Agar garments 28th ko ready nahi hue, then photo shoot has to shift to Nov 30. Shoot needs 1 full day for post-processing.
+13. Priya: Exactly! And my final task is to upload catalog, SKU barcodes, inventory counts, and SEO tags to Shopify.
+14. Final Shopify launch depends on Karan's edited lookbook photos.
+15. Launch original date 30 Nov tha. Agar shoot 30 ko hoga, then Shopify upload will slip to Dec 2!
+16. Bhargav: Aa situation bilkul chalbe nahi. Our entire Diwali marketing blitz starts Dec 1.
+17. Rahul, can you push the Surat vendor for express air courier? 
+18. Ananya: Also packaging boxes are sorted, 500 mailer boxes arrive tomorrow (Nov 19).
+19. We need immediate visibility on this 4-task cascade: Rahul's fabric slip is threatening the entire Nov 30 launch goal.
+20. Let's put this into the system, get Slack approval, and trigger alerts to ops before we commit irreversible delays.
